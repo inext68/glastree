@@ -1,0 +1,4 @@
+cognome,nome,data_nascita,indirizzo,cap,città,sigla_provincia,genere,tipo_documento,numero_documento,scadenza_documento,note,contatto_1_tipo,contatto_1_valore,contatto_1_etichetta,contatto_2_tipo,contatto_2_valore,contatto_2_etichetta
+Rossi,Mario,1990-05-15,Via Roma 10,00100,Roma,RM,M,carta_identita,AB123456,2030-05-15,Socio fondatore,email,mario.rossi@email.com,personale,cellulare,3331234567,lavoro
+Bianchi,Anna,1985-08-22,Via Milano 5,20100,Milano,MI,F,patente,CD789012,2028-08-22,,email,anna.bianchi@email.com,personale
+Verdi,Luca,1992-01-10,Via Napoli 20,80100,Napoli,NA,M,,,,,,cellulare,3339876543,personale
